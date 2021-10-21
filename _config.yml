@@ -13,25 +13,32 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: MSc Remote Sensing, geoInformation, and Visualization
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  The MSc Remote Sensing, geoInformation, and Visualization (RSIV)
+  program at the University of Potsdam educates the next generation of
+  Geo-Data Scientists.
+github_username: BodoBookhagen
 minimal_mistakes_skin: default
 search: true
 
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
+
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Analytics
+analytics:
+  provider               : google-universal # false (default), "google", "google-universal", "custom"
+  google:
+    tracking_id          : UA-5260236-5
+    anonymize_ip         : true
 
 include:
   - _pages
@@ -57,35 +64,45 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Site Author
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name             : "MSc RSIV"
+  avatar           : "images/QdelToro_DEM.jpg"
+  bio              : "MSc Remote Sensing, geoInformation, and Visualization"
+  location         : "University of Potsdam"
+  email            : "bodo.bookhagen@uni-potsdam.de"
   links:
+#    - label: "Email"
+#      icon: "fas fa-fw fa-envelope-square"
+#      url: mailto:bodo.bookhagen@uni-potsdam.de
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      #url: "https://up-rs-esp.github.io/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/UP-RS-ESP"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url: "https://instagram.com/"
 
+# Site Footer
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: https://github.com/UP-RS-ESP
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      url: https://gitup.uni-potsdam.de/RS-ESP
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      # url:
 
 defaults:
   # _posts
@@ -113,3 +130,14 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  internship:
+    output: true
+    permalink: /:collection/:path/
+  msctheses:
+    output: true
+    permalink: /:collection/:path/
+  teachers:
+    output: true
+    permalink: /:collection/:path/
