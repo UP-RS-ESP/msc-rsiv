@@ -1,5 +1,5 @@
 ---
-title: 'MSc thesis topics'
+title: 'MSc Thesis Topics'
 permalink: /theses/
 author_profile: false
 layout: splash

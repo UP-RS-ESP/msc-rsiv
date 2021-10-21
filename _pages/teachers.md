@@ -108,7 +108,7 @@ former_members1:
 # Past Members
 
 - Dr. Dominik Traxl (now researcher at PIK)
-- Dr. Stephanie Olen (now editor at nature sustainability)
+- Dr. Stephanie Olen (now editor at Nature Sustainability)
 - Dr. Fabiana Castino (now with Deutscher Wetterdienst)
 - Dr. Ramezani Ziarani (now researcher at KIT)
 - Dr. Fiona Clubb (now Asst. Professor at Durham University)
