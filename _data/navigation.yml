@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
+  - title: "Curriculum"
     url: /tags/
+  - title: "Internship"
+    url: /categories/
+  - title: "MSc Theses"
+    url: /theses/
   - title: "About"
     url: /about/
