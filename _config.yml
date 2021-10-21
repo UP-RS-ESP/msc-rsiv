@@ -141,3 +141,6 @@ collections:
   teachers:
     output: true
     permalink: /:collection/:path/
+  external:
+    output: true
+    permalink: /:collection/:path/
