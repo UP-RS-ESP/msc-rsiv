@@ -7,5 +7,7 @@ main:
     url: /internships/
   - title: "MSc Theses"
     url: /msctheses/
+  - title: "Current Students"
+    url: /students/
   - title: "About"
     url: /about/
