@@ -1,8 +1,8 @@
 ---
 title: Team Members
 layout: splash
-permalink: /team_members/
-collection: team_members
+permalink: /instructors/
+collection: instructors
 entries_layout: grid
 classes: wide
 teachers1:
