@@ -1,6 +1,6 @@
 ---
-title: 'MSc theses'
-permalink: /theses/
+title: 'MSc Theses'
+permalink: /msctheses/
 author_profile: false
 layout: splash
 ---
