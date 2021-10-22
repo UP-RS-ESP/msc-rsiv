@@ -5,7 +5,7 @@ permalink: /team_members/
 collection: team_members
 entries_layout: grid
 classes: wide
-researchers1:
+teachers1:
   - image_path: /images/bookhagen.jpg
     alt: Bodo Bookhagen
     title: Bodo Bookhagen
@@ -20,7 +20,7 @@ researchers1:
     title: Harald Schernthanner
     excerpt: 'GIS and spatial analysis, Computer Lab Technician'
     url: 'https://schernthanner.de/'
-researchers2:
+teachers2:
   - image_path: /images/smith.jpg
     alt: Taylor Smith
     title: Taylor Smith
@@ -37,82 +37,20 @@ researchers2:
     title: Ben Purinton
     excerpt: 'SAR, Processing of satellite Remote Sensing Data'
     url: 'https://bpurinton.github.io/'
-researchers3:
+teachers3:
   - image_path: /images/team_photo.png
     title: 'Manudeo Singh'
     excerpt: 'Floodplain, UAV'
-PhD_students1:
-  - image_path: /images/sofiaviotto2.jpg
-    alt: Sofia Viotto
-    title: Sofia Viotto
-    excerpt: 'DEM, Satellite Photogrammetry, InSAR'
-  - image_path: /images/team_photo.png
-    alt: Nikolas  Antonoglou
-    title: Nikolaos Antonoglou
-    excerpt: GNSS Remote Sensing
-  - image_path: /images/mueting.jpg
-    title: Ariane Mueting
-    excerpt: 'Digital Elevation Models, Satellite Photogrammetry'
-    url: 'https://arimue.github.io/'
-PhD_students2:
-  - image_path: /images/artel.jpg
-    alt: Julia Artel
-    title: Julia Artel
-    excerpt: Cosmogenic Radionuclides
-  - image_path: /images/team_photo.png
-    title: Sohini Bhattacharjee
-    excerpt: 'CRN Erosion, Himalayan Sediment Transport'
-  - image_path: /images/Mohammad-MohseniAref2.jpg
-    title: Mohammad Mohseni Aref
-    excerpt: 'Radar Interferometry (InSAR), GNSS'
-former_members1:
-  - image_path: /images/team_photo.png
-    title: Fiona Clubb
-    excerpt: DEM Analysis
-  - image_path: /images/team_photo.png
-    alt: Fabiana Castino
-    title: Fabiana Castino
-    excerpt: Hydrology and meteorology of the Central Andes
-  - image_path: /images/konstanze2.jpg
-    alt: Konstanze Stuebner
-    title: Konstanze Stuebner
-    excerpt: 'CRN, Thermochronology'
-    url: ''
-  - image_path: /images/olen.png
-    alt: Stephanie Olen
-    title: Stephanie Olen
-    excerpt: 'Earth Surface Processes, CRN Erosion, SAR'
-  - image_path: /images/traxl.jpg
-    title: Dominik Traxl
-    excerpt: 'Complex networks, Time series analysis'
-    url: 'https://github.com/dominiktraxl'
-
 ---
 
-# Researchers
+# List of instructors and contributors to the MSc RSIV program
 
-{% include feature_row id="researchers1" type=center%}
+| Name | Institution and Link |
+|:----|:---|
+Bodo Bookhagen | Institute of Geosciences, UP [link](https://bodobookhagen.github.io/)
+Taylor Smith  | Institute of Geosciences, UP [link](https://tasmi.github.io/)
 
-{% include feature_row id="researchers2" type=center%}
 
-{% include feature_row id="researchers3" type=center%}
+# Teachers
 
-# PhD Students
-
-{% include feature_row id="PhD_students1" type=center%}
-
-{% include feature_row id="PhD_students2" type=center%}
-
-# MSc and BSc Students
-
-# Past Members
-
-- Dr. Dominik Traxl (now researcher at PIK)
-- Dr. Stephanie Olen (now editor at nature sustainability)
-- Dr. Fabiana Castino (now with Deutscher Wetterdienst)
-- Dr. Ramezani Ziarani (now researcher at KIT)
-- Dr. Fiona Clubb (now Asst. Professor at Durham University)
-- Dr. Frank Günther (now independent researcher)
-- Dr. Konstanze Stuebner (now with HZDR Dresden-Rossendorf)
-- Dr. Bedartha Goswami (now Asst. Professor at University of Tuebingen)
-- Lisa Luna (now PhD student at UP)
+{% include feature_row id="teachers1" type=center%}
