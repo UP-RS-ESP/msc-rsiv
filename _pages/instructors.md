@@ -49,9 +49,9 @@ Ben Purinton  | Institute of Geosciences, UP [link](https://bpurinton.github.io/
 
 | Name | Institution and Link |
 |:----|:---|
-![/assets/images/bio-photo.jpg](https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/images/bio-photo.jpg){: .align-right width: 50%} Bodo Bookhagen | Institute of Geosciences, UP [link](https://bodobookhagen.github.io/)
-![/assets/images/bio-photo.jpg](https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/images/bio-photo.jpg){: .align-right width: 50%} Taylor Smith  | Institute of Geosciences, UP [link](https://tasmi.github.io/)
-![/assets/images/bio-photo.jpg](https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/images/bio-photo.jpg) Ben Purinton  | Institute of Geosciences, UP [link](https://bpurinton.github.io/)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" width="100" height="100"> Bodo Bookhagen | Institute of Geosciences, UP [link](https://bodobookhagen.github.io/)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" width="100" height="100"> Taylor Smith  | Institute of Geosciences, UP [link](https://tasmi.github.io/)
+<img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" width="100" height="100"> Ben Purinton  | Institute of Geosciences, UP [link](https://bpurinton.github.io/)
 
 # Teachers
 
