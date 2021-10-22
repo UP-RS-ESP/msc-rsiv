@@ -67,7 +67,7 @@ plugins:
 # Site Author
 author:
   name             : "MSc RSIV"
-  avatar           : "assets/images/QdelToro_DEM.jpg"
+  avatar           : "/assets/images/QdelToro_DEM.jpg"
   bio              : "MSc Remote Sensing, geoInformation, and Visualization"
   location         : "University of Potsdam"
   email            : "bodo.bookhagen@uni-potsdam.de"
