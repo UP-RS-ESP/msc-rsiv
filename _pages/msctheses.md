@@ -4,16 +4,6 @@ permalink: /theses/
 author_profile: false
 layout: splash
 ---
-# Steps for finding a MSc thesis topic
-
-**The candidate (and only the candidate) is responsible for finding a MSc thesis topic. A master's thesis is an international scientific or artistic work that is written for the completion of a master's program. It shows that the candidate can conduct independent scientific work, but under supervision.**
-
-There are different ways to identify your thesis topic. Usually, you talk to a researcher or lecturer whos lecture you have enjoyed and were you have excelled. Some researcher offer thesis topics during their classes. Often, you start a thesis with a research internship.
-
-To get an idea for thesis topics, we list some past topics below. Most of them have been developed over several weeks of discussion between thesis advisor and candidate or during a research internship. Additional thesis topics are shown [here](https://up-rs-esp.github.io/theses/).
-
-We also have a loose list of topics that we like to work on - please contact the listed advisor for additional information.
-
 
 ## List of MSc theses in the RSIV program
 
