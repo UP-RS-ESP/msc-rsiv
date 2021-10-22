@@ -1,9 +1,11 @@
 main:
   - title: "Curriculum"
-    url: /tags/
-  - title: "Internship"
-    url: /categories/
+    url: /curriculum/
+  - title: "Instructors"
+    url: /instructors/
+  - title: "Internships"
+    url: /internships/
   - title: "MSc Theses"
-    url: /theses/
+    url: /msctheses/
   - title: "About"
     url: /about/
