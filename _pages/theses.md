@@ -1,5 +1,5 @@
 ---
-title: 'MSc thesis topics'
+title: 'MSc theses'
 permalink: /theses/
 author_profile: false
 layout: splash
@@ -15,11 +15,10 @@ To get an idea for thesis topics, we list some past topics below. Most of them h
 We also have a loose list of topics that we like to work on - please contact the listed advisor for additional information.
 
 
-## List of advised MSc thesis in reversed chronological order
-### Abbreviations:
+## List of MSc theses in the RSIV program
 
 | *Title* | Additional information and PDF link (if available) |
-|:----:|:---:|
+|:----|:---:|
 | *Spatial Modeling of Mini-Grid Solar Systems For Health Facilities and Surrounding Communities In Ghana* |  |
 | *Settlement and urban area detection from medium resolution satellite imagery* |  |
 | *Detection and analysis of flooding areas by using Sentinal-1 data in a part of the lower Chao-phraya river basin (Thailand)* | |
@@ -40,4 +39,4 @@ We also have a loose list of topics that we like to work on - please contact the
 | *Along strike variation of active fault arrays and their effect on landscape morphology in the northwestern Himalaya* | [MSc thesis published in *Lithosphere*](https://pubs.geoscienceworld.org/gsa/lithosphere/article/538472/fault-activity-tectonic-segmentation-and) |
 | *Landscape response to alternating wet and dry seasons observed by remotely sensed data in the Chew Bahir basin, Ethiopia* | |
 | *A glacial chronology and cosmogenic nuclide cross-calibration from the central southern Andean Plateau (Puna, 24S)* | [MSc thesis published in *Earth and Planetary Science Letters*](https://www.sciencedirect.com/science/article/abs/pii/S0012821X18304400) |
-| Validation of Digital Elevation Models (DEMs) & Derived Geomorphic Metrics on the Southern Central Andean Plateau* | [MSc thesis published in *Earth Surface Dynamics*](https://www.earth-surf-dynam.net/5/211/2017/) |
+| *Validation of Digital Elevation Models (DEMs) & Derived Geomorphic Metrics on the Southern Central Andean Plateau* | [MSc thesis published in *Earth Surface Dynamics*](https://www.earth-surf-dynam.net/5/211/2017/) |
