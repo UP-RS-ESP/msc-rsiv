@@ -8,7 +8,7 @@ layout: splash
 
 The MSc RSIV program consists of five core modules coupled with several optional topics and a final thesis project.
 
-![MSc_RSIV_concept_vs10.jpg](https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/images/MSc_RSIV_concept_vs10.jpg)
+![MSc_RSIV_concept_vs10.jpg](https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/images/MSc_RSIV_concept_vs10.jpg){ width=1000px }
 
 # Information for Current Students
 
