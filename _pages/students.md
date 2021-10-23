@@ -11,6 +11,8 @@ toc_sticky: true
 # Internships
 An internship can be used for credit points during your MSc degree. Each student can undertake up to two internships of ~180 hours each (6 CP, 3-4 weeks full time, or longer part-time). **An internship is not required to graduate from the RSIV program**, but can be helpful for advanced candidates to develop research towards a thesis project.
 
+An partial list of past internships is [here](https://up-rs-esp.github.io/msc-rsiv/internships/)
+
 ## Internship Requirements
 Internships must be **pre-approved** before credits can be given -- not all internships qualify for credit points, and this should be confirmed **before** the internship. Students can apply for an internship with [this form](assets/pdfs/RSIV_Internship_application_form.pdf). The form with all signatures must be submitted to the examination committee of the MSc RSIV ([email Bodo Bookhagen](mailto:bodo.bookhagen@uni-potsdam.de)). Important consideration: One of the advisors must be from the Institute of Geosciences, as this is a module that gives credit points. To fulfill the academic internship requirements and receive credits, the student will need to submit a report (10-12 pages) and give a 10-minute presentation about their internship work.
 
