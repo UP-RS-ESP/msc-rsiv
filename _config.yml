@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: MSc RSIV
-email:
+email: bodo.bookhagen@uni-potsdam.de
 description: >- # this means to ignore newlines until "baseurl:"
   The MSc Remote Sensing, geoInformation, and Visualization (RSIV)
   program at the University of Potsdam educates the next generation of
   Geo-Data Scientists.
 github_username: BodoBookhagen
-minimal_mistakes_skin: air
+minimal_mistakes_skin: "air"
 search: true
 
 # Build settings
@@ -91,17 +91,17 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: https://github.com/UP-RS-ESP
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      url: https://gitup.uni-potsdam.de/RS-ESP
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url:
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   url: https://github.com/UP-RS-ESP
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   url: https://gitup.uni-potsdam.de/RS-ESP
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
 
 defaults:
