@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   program at the University of Potsdam educates the next generation of
   Geo-Data Scientists.
 github_username: BodoBookhagen
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings

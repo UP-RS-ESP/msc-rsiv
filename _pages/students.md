@@ -2,7 +2,7 @@
 title: 'Current Students'
 permalink: /students/
 author_profile: false
-layout: splash
+layout: single
 toc: true
 toc_label: Information for current students
 toc_sticky: true
