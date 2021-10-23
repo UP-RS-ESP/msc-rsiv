@@ -30,7 +30,7 @@ List of elective modules (each 6 CP, choose a total of 60 CP).**You will need to
 **Visualization and Communication Methods (VCM)** | Examples of Visualization and Communication Methods <br />  Industry Internship or Practical Application <br /> Extended Industry Internship or Practical Application <br /> Advanced Topics of Visualization and Communication Methods
 
 
-Need to update.
+Need to update:
 <p align="center">
 <img src="https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/images/MSc_RSIV_concept_vs10.jpg" width="1025" />
 </p>
