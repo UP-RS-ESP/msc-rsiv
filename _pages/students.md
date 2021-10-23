@@ -13,7 +13,7 @@ Internships must be **pre-approved** before credits can be given -- not all inte
 
 ## Steps for Finding a MSc Thesis Topic
 
-There are different ways to identify your thesis topic. Usually, you talk to a researcher or lecturer during or after a class you have enjoyed and where you have excelled. Some instructors offer thesis topics during their classes, especially as continuations of class final projects. It is also often possible to start a thesis with an introductory research internship -- either with an instructor at UP or externally at another research institution or company.
+There are different ways to identify your thesis topic. Usually, you talk to a researcher or lecturer during or after a class you have enjoyed and where you have excelled. Some instructors offer thesis topics during their classes, especially as continuations of final class projects. It is also often possible to start a thesis with an introductory research internship -- either with an instructor at UP or externally at another research institution or company.
 
 **It is important to emphasize that the candidate (and only the candidate) is responsible for finding a MSc thesis topic -- students must take responsibility for designing their own final thesis project.** A master's thesis is an international scientific or artistic work that is written for the completion of a master's program. It shows that the candidate can conduct independent scientific work, aided by supervision from one or more advisors. For more information on thesis requirements, please see the official UP information [here](https://www.uni-potsdam.de/en/studium/studying/organizing-your-exams/final-thesis).
 
