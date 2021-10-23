@@ -16,11 +16,11 @@ If your organization is interested in working with motivated and capable student
 
 | *Title* | |
 |:----|:---:|
-| *GRACE's total water storage patterns in South America* | [link](https://up-rs-esp.github.io/posts/2021/06/GRACE)
+| *GRACE's total water storage patterns in South America* | [Blog Post](https://up-rs-esp.github.io/posts/2021/06/GRACE)
 | *Generating high-resolution Digital Models from UVA acquisitions and tri-stereo SPOT imagery* | |
 | *High-resolution canopy models using Structure from Motion* | |
 | *Desert locust detection* | |
-| *Causes of reduction in airborne NO2 and CO emissions in Europe during the COVID-19 crisis* | | [link](https://up-rs-esp.github.io/posts/2020/12/COVID-19-NOx-CO-emission-Europe/)
+| *Causes of reduction in airborne NO2 and CO emissions in Europe during the COVID-19 crisis* | [Blog Post](https://up-rs-esp.github.io/posts/2020/12/COVID-19-NOx-CO-emission-Europe/)
 | *Video image processing of cameras near Strokhur & Geldingadalur, Iceland* | |
 | *High resolution imaging of tectonic and anthropogenic surface deformation in Turkey from Sentnel-1 Insar measurements* ||
 | *Analysis of various DEM from the Himalaya to assess accuray and precision* | |
