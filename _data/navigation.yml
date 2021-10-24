@@ -9,5 +9,5 @@ main:
     url: /msctheses/
   - title: "Current Students"
     url: /students/
-  - title: "About"
-    url: /about/
+  #- title: "About"
+  #  url: /about/
