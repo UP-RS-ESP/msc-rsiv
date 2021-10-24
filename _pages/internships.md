@@ -17,7 +17,7 @@ If your organization is interested in working with motivated and capable student
 | *Title* | |
 |:----|:---:|
 | *GRACE's total water storage patterns in South America* | [Blog Post](https://up-rs-esp.github.io/posts/2021/06/GRACE)
-| *Generating high-resolution Digital Models from UVA acquisitions and tri-stereo SPOT imagery* | |
+| *Generating high-resolution Digital Models from UAV acquisitions and tri-stereo SPOT imagery* | |
 | *High-resolution canopy models using Structure from Motion* | |
 | *Desert locust detection* | |
 | *Causes of reduction in airborne NO2 and CO emissions in Europe during the COVID-19 crisis* | [Blog Post](https://up-rs-esp.github.io/posts/2020/12/COVID-19-NOx-CO-emission-Europe/)
@@ -30,5 +30,5 @@ If your organization is interested in working with motivated and capable student
 | *Drainage networks and their response to tectonic activity* | |
 | *Anlaysis with satellite data (focus on renemable energy)* | |
 | *Analysis of DEM of a growing fault structure in Valles calchaquies* | |
-| *Polar terrestrial Environmental systems* | |
+| *Polar terrestrial environmental systems* | |
 | *Nigerian energy support program* | |
