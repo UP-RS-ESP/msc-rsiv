@@ -6,7 +6,7 @@ layout: splash
 ---
 
 # Curriculum
-The MSc Remote Sensing program requires 5 mandatory modules with 6 CP (Credit Points) each for a total of 30 CP and 10 modules from electives (total of 60 CP). The MSc thesis is an additional 30 CP. Each CP is the equivalent of 30 hours. You can expect that a class with 30 CP requires 180h of time commitment, including lecutres, home work, and self-study. There is a maximum of 5 classes that you can take during one semester (5 x 180h is the equivalent of 40h work per week). In other words, if you attend 5 modules in one semester, you are expected to fully dedicate your time to these modules.
+The MSc Remote Sensing program requires 5 mandatory modules with 6 CP (Credit Points) each for a total of 30 CP and 10 modules from electives (total of 60 CP). The MSc thesis is an additional 30 CP. Each CP is equivalent to 30 hours. You can expect that a class with 30 CP requires 180h of time commitment, including lectures, homework, and self-study. There is a maximum of 5 classes that you can take during one semester (5 x 180h is the equivalent of 40h work per week). In other words, if you attend 5 modules in one semester, you are expected to fully dedicate your time to these modules.
 
 ## List of mandatory modules (each 6 CP)
 
