@@ -12,11 +12,11 @@ The MSc Remote Sensing program requires 5 mandatory modules with 6 CP (Credit Po
 
 | Mandatory modules (RCM) | Short Description
 |:----|:---
-**Remote Sensing of the Environment** | text
-**Earth System Science** | text
-**Data Analysis and Statistics** | text
-**Geoinformation Systems** | text
-**Visualization and Communication** | text
+**Remote Sensing of the Environment** | Physical principles of remote sensing, including concepts of optical, radar, microwave, lidar, and multispectral remote-sensing. Remote sensing applications for identifying processes in the atmosphere, on the Earth's surface, including the canopy layer, and solid-earth deformation using ground based, airborne, including UAV, and satellite observations.
+**Earth System Science** | Transport processes in the atmosphere, on the Earth's surface (geomorphology), in the Critical Zone, and in the solid Earth.
+**Data Analysis and Statistics** | Quantitative Analysis of earth-science data using a computative environment (e.g., Python or Matlab). Basic and advanced concepts of time series and image analysis, including filtering and interpolation.
+**Geoinformation Systems** | Spatial analysis of geoscientific datasets using a GIS framework.
+**Visualization and Communication** | Discussion and evaluation of scientific literature.
 
 
 ## List of elective modules (each 6 CP, choose a total of 60 CP)
