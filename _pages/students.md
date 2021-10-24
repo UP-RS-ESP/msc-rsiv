@@ -20,14 +20,14 @@ We attempt to send out regular updates about upcoming (next semester's) schedule
 A detailed list of modules and their descriptions (unfortunately only in German!) is available [here](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&publishContainer=ModulbaumAnzeigen&modulkatalog.mk_id=158&menuid=&topitem=modulbeschreibung&subitem=) and [as PDF](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=transform&vmfile=no&moduleCall=ModulkatalogAnzeigen&publishConfFile=modulkatalog&publishSubDir=up/modulkatalog&modulkatalog.mk_id=158&xslobject=pdf1). These information can also be accessed as non-University students.
 
 ## Study and Examination Regulations
-The study and examination regulations are summarized in the translated [PDF document](/assets/pdfs/Lesefassung_2_English.pdf). All official documents are available at the Faculty of Science [webapge](https://www.uni-potsdam.de/en/mnfakul/study-and-teaching/master/remote-sensing-geoinformation-and-visualization) from the University of Potsdam and the [study and examination regulations](https://www.uni-potsdam.de/de/studium/konkret/rechtsgrundlagen/studienordnungen/remote-sensing-geoinformation-and-visualization.html). *Note that only the German documents are the legally binding documents.*
+The study and examination regulations are summarized in the translated [PDF document](/assets/pdfs/Lesefassung_2_English.pdf). All official documents are available at the Faculty of Science [webapge](https://www.uni-potsdam.de/en/mnfakul/study-and-teaching/master/remote-sensing-geoinformation-and-visualization) from the University of Potsdam and the [study and examination regulations](https://www.uni-potsdam.de/de/studium/konkret/rechtsgrundlagen/studienordnungen/remote-sensing-geoinformation-and-visualization.html). *Note that only the German documents are legally binding.*
 
 You should consult these regulations and as a student of the MSc RSIV program you *must* be familiar with these.
 
 # Internships
 An internship can be used for credit points during your MSc degree. Each student can undertake up to two internships of ~180 hours each (6 CP, 3-4 weeks full time, or longer part-time). **An internship is not required to graduate from the RSIV program**, but can be helpful for advanced candidates to develop research towards a thesis project.
 
-An partial list of past internships is [here](https://up-rs-esp.github.io/msc-rsiv/internships/)
+An partial list of past internships is available [here](https://up-rs-esp.github.io/msc-rsiv/internships/).
 
 ## Internship Requirements
 Internships must be **pre-approved** before credits can be given -- not all internships qualify for credit points, and this should be confirmed **before** the internship. Students can apply for an internship with [this form](assets/pdfs/RSIV_Internship_application_form.pdf). The form with all signatures must be submitted to the examination committee of the MSc RSIV ([email Bodo Bookhagen](mailto:bodo.bookhagen@uni-potsdam.de)). Important consideration: One of the advisors must be from the Institute of Geosciences, as this is a module that gives credit points. To fulfill the academic internship requirements and receive credits, the student will need to submit a report (10-12 pages) and give a 10-minute presentation about their internship work.
