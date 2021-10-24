@@ -16,7 +16,7 @@ The MSc Remote Sensing program requires 5 mandatory modules with 6 CP (Credit Po
 **Earth System Science** | Transport processes in the atmosphere, on the Earth's surface (geomorphology), in the Critical Zone, and in the solid Earth.
 **Data Analysis and Statistics** | Quantitative Analysis of earth-science data using a computative environment (e.g., Python or Matlab). Basic and advanced concepts of time series and image analysis, including filtering and interpolation.
 **Geoinformation Systems** | Spatial analysis of geoscientific datasets using a GIS framework.
-**Visualization and Communication** | Discussion and evaluation of scientific literature.
+**Visualization and Communication** | The module syllabus includes literature and data research, identifying scientific and controversial material, drafting a data analysis project, using modern visualization techniques, and presentation techniques for an expert or lay audience as well as decision-makers. This module consists of a weekly seminar with invited lecturers from the earth and environmental sciences.
 
 
 ## List of elective modules (each 6 CP, choose a total of 60 CP)
