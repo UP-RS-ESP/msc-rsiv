@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About"
+author_profile: false
+layout: splash
 ---
 
 The MSc Remote Sensing, geoInformation, and Visualization (RSIV) program is hosted at the [Institute of Geosciences](https://www.uni-potsdam.de/de/geo/) at the [University of Potsdam](https://www.uni-potsdam.de/en/university-of-potsdam). The managing person and coordinator is [Bodo Bookhagen](https://bodobookhagen.github.io/).
