@@ -24,6 +24,13 @@ The study and examination regulations are summarized in the translated [PDF docu
 
 You should consult these regulations and as a student of the MSc RSIV program you *must* be familiar with these.
 
+# Transscript and Grading
+## Modules listed on transscript
+Please note that all classes that you sign up for on PULS will be listed on your academic transscript - even if they are not completed. However, on the final transscript that you receive with your degree, these  courses will not be listed. Only the completed courses are listed on the transscript that you receive with your degree.
+
+Please note that many modules have homework assocatied with them (called PNL: Prüfungsnebenleistungen). These need to be completed before you can participate in a module. If you have to retake a class (because the PNL were not passed), you first need to fail there. You can retake the PNL as many times as you like - this is not a final exam (that you can only retake once).
+
+
 # Internships
 An internship can be used for credit points during your MSc degree. Each student can undertake up to two internships of ~180 hours each (6 CP, 3-4 weeks full time, or longer part-time). **An internship is not required to graduate from the RSIV program**, but can be helpful for advanced candidates to develop research towards a thesis project.
 
