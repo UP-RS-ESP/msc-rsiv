@@ -22,13 +22,13 @@ If your organization is interested in working with motivated and capable student
 | *Desert locust detection* | |
 | *Causes of reduction in airborne NO2 and CO emissions in Europe during the COVID-19 crisis* | [Blog Post](https://up-rs-esp.github.io/posts/2020/12/COVID-19-NOx-CO-emission-Europe/)
 | *Video image processing of cameras near Strokhur & Geldingadalur, Iceland* | |
-| *High resolution imaging of tectonic and anthropogenic surface deformation in Turkey from Sentnel-1 Insar measurements* ||
-| *Analysis of various DEM from the Himalaya to assess accuray and precision* | |
-| *Detection of plastic unsing 1-band thermal cameras* | |
+| *High resolution imaging of tectonic and anthropogenic surface deformation in Turkey from Sentnel-1 InSAR measurements* ||
+| *Analysis of various DEMs from the Himalaya to assess accuracy and precision* | |
+| *Detection of plastic uning 1-band thermal cameras* | |
 | *Assesing landslide hazards in the Colombian Andes* | |
 | *Orthomosaic of aerial imagery* | |
 | *Drainage networks and their response to tectonic activity* | |
-| *Anlaysis with satellite data (focus on renemable energy)* | |
-| *Analysis of DEM of a growing fault structure in Valles calchaquies* | |
+| *Analysis with satellite data (focus on renewable energy)* | |
+| *Analysis of DEM of a growing fault structure in Valles Calchaquies* | |
 | *Polar terrestrial environmental systems* | |
 | *Nigerian energy support program* | |
