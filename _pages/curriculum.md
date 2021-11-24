@@ -30,8 +30,6 @@ The MSc Remote Sensing program requires 5 mandatory modules with 6 CP (Credit Po
 **Geoinformation Systems and Applications (GIS)** | Analysis of Digital Elevation Models <br /> Mapping and Geoinformation Systems Environmental <br /> Spatial Statistics and Models <br /> Advanced Topics Geoinformation System Applications |
 **Visualization and Communication Methods (VCM)** | Examples of Visualization and Communication Methods <br />  Industry Internship or Practical Application <br /> Extended Industry Internship or Practical Application <br /> Advanced Topics of Visualization and Communication Methods
 
-
-Need to update:
 <p align="center">
 <img src="https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/images/MSc_RSIV_concept_vs10.jpg" width="1025" />
 </p>
