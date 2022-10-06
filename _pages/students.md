@@ -13,14 +13,14 @@ This page is intended for current students who have been accepted to the MSc pro
 
 # Curriculum
 ## Module catalog
-We attempt to send out regular updates about upcoming (next semester's) schedule and classes. A list of offered modules and classes is available via PULS. The current catalog and schedule (WS 2021/22) is available as [PDF](https://puls.uni-potsdam.de/QIS/VVZ/20212/VVZ_20212_2347.pdf).
+We attempt to send out regular updates about upcoming (next semester's) schedule and classes. A list of offered modules and classes is available via PULS. The current catalog and schedule (WS 2022/23) is available as [PDF](https://puls.uni-potsdam.de/QIS/VVZ/20222/VVZ_20222_2347.pdf).
 
 **As a student of the MSc RSIV program you can only choose modules and obtain credits for modules listed in the course catalog.** These are also listed in the study and examination regulations. You can choose other classes and modules, but will not be able to obtain credits for them.
 
 A detailed list of modules and their descriptions (unfortunately only in German!) is available [here](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&publishContainer=ModulbaumAnzeigen&modulkatalog.mk_id=158&menuid=&topitem=modulbeschreibung&subitem=) and [as PDF](https://puls.uni-potsdam.de/qisserver/rds?state=verpublish&status=transform&vmfile=no&moduleCall=ModulkatalogAnzeigen&publishConfFile=modulkatalog&publishSubDir=up/modulkatalog&modulkatalog.mk_id=158&xslobject=pdf1). These information can also be accessed as non-University students.
 
 ## Study and Examination Regulations
-The study and examination regulations are summarized in the translated [PDF document](https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/pdfs/Lesefassung_2_English.pdf). All official documents are available at the Faculty of Science [webapge](https://www.uni-potsdam.de/en/mnfakul/study-and-teaching/master/remote-sensing-geoinformation-and-visualization) from the University of Potsdam and the [study and examination regulations](https://www.uni-potsdam.de/de/studium/konkret/rechtsgrundlagen/studienordnungen/remote-sensing-geoinformation-and-visualization.html). *Note that only the German documents are legally binding.*
+The study and examination regulations are summarized in the translated [PDF document](https://github.com/UP-RS-ESP/msc-rsiv/raw/gh-pages/assets/pdfs/Lesefassung_2_English.pdf). All official documents are available at the Faculty of Science [webpage](https://www.uni-potsdam.de/en/mnfakul/study-and-teaching/master/remote-sensing-geoinformation-and-visualization) from the University of Potsdam and the [study and examination regulations](https://www.uni-potsdam.de/de/studium/konkret/rechtsgrundlagen/studienordnungen/remote-sensing-geoinformation-and-visualization.html). *Note that only the German documents are legally binding.*
 
 You should consult these regulations and as a student of the MSc RSIV program you *must* be familiar with these.
 

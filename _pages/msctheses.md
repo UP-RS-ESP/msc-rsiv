@@ -16,10 +16,10 @@ layout: splash
 | *The Sixth Sense of White Storks - Towards an E2E Service for Locust Threat Alarms* | |
 | *Applications of pointcloud and full-waveform Lidar data for object detection* |  |
 | *Near-real time detection of lake ice using Sentinel-1 data* | [PDF of MSc thesis](http://bodobookhagen.github.io/pdf/Mastersthesis_FelixKessler.pdf) |
-| *Terrestrial lidar scanning and point cloud classification of the „Neues Palais“, University of Potsdam* | |
+| *Terrestrial lidar scanning and point cloud classification of the ``Neues Palais", University of Potsdam* | |
 | *Ground Deformation Monitoring in Mining Areas on the Central Andean Plateau (Puna, Argentina) Using Sentinel-1 Data* | |
 | *Mapping bedfast and floating thermokarst lake ice and determining lake depth using Sentinel 1 Synthetic Aperture Radar Remote Sensing on the west shore of Hudson Bay, Canada and Prudhoe Bay, Alaska* | |
-| *Derivation of Biophysical Metrics for NE-Siberian Biomes using UAV-Based Photogrammetric Point Clouds* | [MSc thesis published in *remote sensing*](https://www.mdpi.com/2072-4292/11/12/1447) |
+| *Derivation of Biophysical Metrics for NE-Siberian Biomes using UAV-Based Photogrammetric Point Clouds* | [MSc thesis published in *Remote Sensing*](https://www.mdpi.com/2072-4292/11/12/1447) |
 | *Quality assessment of structure from motion point clouds from river pebbles* | |
 | *Evaluating groundwater sustainability of mining activities in the Niger basin*  | |
 | *Dome growth during the 2016-2017 eruption sequence at Bezymianny volcano, Kamchatka, measured by high-resolution TerraSAR-X and photogrammetric data* | |
