@@ -5,10 +5,21 @@ author_profile: false
 layout: splash
 ---
 
+For a complete list, we refer to [https://up-rs-esp.github.io/theses/](https://up-rs-esp.github.io/theses/).
+
 ## List of past MSc Theses in the RSIV program
 
 | *Title* | Additional information and PDF link (if available) |
 |:----|:---:|
+| *Assessing Optical Flow Techniques for Displacement Mapping Using SAR and Optical Images: A Study on the 2023 Kahramanmaraş Earthquakes* | |
+| *Detecting Fault Structures in High-Resolution 2D Imagery* | |
+| *Estimating Ammonia Emissions from Nitrogen-Based Fertilizer Application in South Punjab, Pakistan and Assessing Impact on Atmospheric Ammonia Levels* | |
+| *Extending the Capabilities of SegmentAnything to Delineate River Pebbles from Orthophotos* | MSc thesis in review in Earth Surface Dynamics |
+| *Geomorphic Expression of Slow Deformation Processes in a Tectonically Active Intermontane Basin: Deformed Terraces and Changes in the Fluvial Network in the Calchaquı́ Valley, Northwestern Argentina* ||
+| *Reconstructing the Hydrological History of the Koora/Siriata Paleolake in the South Kenya Rift during the Holocene African Humid Period* | |
+| *Random Forest based Ground Classification of UAV Point Clouds* | |
+| *Detection of pipe bursts and sewer damages in Berlin using InSAR time series from 2020-2023* | | 
+| *Satellite-Based Lake Area Time Series Analysis on the Central Andean Plateau* ||
 | *Spatial Modeling of Mini-Grid Solar Systems For Health Facilities and Surrounding Communities In Ghana* |  |
 | *Settlement and urban area detection from medium resolution satellite imagery* |  |
 | *Detection and analysis of flooding areas by using Sentinal-1 data in a part of the lower Chao-phraya river basin (Thailand)* | |
