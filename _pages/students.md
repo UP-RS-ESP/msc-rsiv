@@ -13,7 +13,7 @@ This page is intended for current students who have been accepted to the MSc pro
 
 # Curriculum
 ## Module catalog
-We attempt to send out regular updates about upcoming (next semester's) schedule and classes. A list of offered modules and classes is available via PULS. The current catalog and schedule (WS 2022/23) is available as [PDF](https://puls.uni-potsdam.de/QIS/VVZ/20252/VVZ_20252_2347.pdf).
+We attempt to send out regular updates about upcoming (next semester's) schedule and classes. A list of offered modules and classes is available via PULS. The current catalog and schedule (WS 2025/26) is available as [PDF](https://puls.uni-potsdam.de/QIS/VVZ/20252/VVZ_20252_2347.pdf).
 
 **As a student of the MSc RSIV program you can only choose modules and obtain credits for modules listed in the course catalog.** These are also listed in the study and examination regulation documents. You can choose other classes and modules, but will not be able to obtain credits for them.
 
