@@ -5,7 +5,7 @@ author_profile: false
 layout: splash
 ---
 
-For a complete list, we refer to [https://up-rs-esp.github.io/theses/](https://up-rs-esp.github.io/theses/).
+For a complete list, we refer to https://up-rs-esp.github.io/theses/.
 
 ## List of past MSc Theses in the RSIV program
 
