@@ -5,10 +5,21 @@ author_profile: false
 layout: splash
 ---
 
-## List of MSc Theses in the RSIV program
+**For a complete list, we refer to [https://up-rs-esp.github.io/theses/](https://up-rs-esp.github.io/theses/).**
+
+## Partial List of MSc Theses in the RSIV program
 
 | *Title* | Additional information and PDF link (if available) |
 |:----|:---:|
+| *Assessing Optical Flow Techniques for Displacement Mapping Using SAR and Optical Images: A Study on the 2023 Kahramanmaraş Earthquakes* | |
+| *Detecting Fault Structures in High-Resolution 2D Imagery* | |
+| *Estimating Ammonia Emissions from Nitrogen-Based Fertilizer Application in South Punjab, Pakistan and Assessing Impact on Atmospheric Ammonia Levels* | |
+| *Extending the Capabilities of SegmentAnything to Delineate River Pebbles from Orthophotos* | MSc thesis in review in Earth Surface Dynamics |
+| *Geomorphic Expression of Slow Deformation Processes in a Tectonically Active Intermontane Basin: Deformed Terraces and Changes in the Fluvial Network in the Calchaquı́ Valley, Northwestern Argentina* ||
+| *Reconstructing the Hydrological History of the Koora/Siriata Paleolake in the South Kenya Rift during the Holocene African Humid Period* | |
+| *Random Forest based Ground Classification of UAV Point Clouds* | |
+| *Detection of pipe bursts and sewer damages in Berlin using InSAR time series from 2020-2023* | | 
+| *Satellite-Based Lake Area Time Series Analysis on the Central Andean Plateau* ||
 | *Spatial Modeling of Mini-Grid Solar Systems For Health Facilities and Surrounding Communities In Ghana* |  |
 | *Settlement and urban area detection from medium resolution satellite imagery* |  |
 | *Detection and analysis of flooding areas by using Sentinal-1 data in a part of the lower Chao-phraya river basin (Thailand)* | |
@@ -16,10 +27,10 @@ layout: splash
 | *The Sixth Sense of White Storks - Towards an E2E Service for Locust Threat Alarms* | |
 | *Applications of pointcloud and full-waveform Lidar data for object detection* |  |
 | *Near-real time detection of lake ice using Sentinel-1 data* | [PDF of MSc thesis](http://bodobookhagen.github.io/pdf/Mastersthesis_FelixKessler.pdf) |
-| *Terrestrial lidar scanning and point cloud classification of the ``Neues Palais", University of Potsdam* | |
+| *Terrestrial lidar scanning and point cloud classification of the „Neues Palais“, University of Potsdam* | |
 | *Ground Deformation Monitoring in Mining Areas on the Central Andean Plateau (Puna, Argentina) Using Sentinel-1 Data* | |
 | *Mapping bedfast and floating thermokarst lake ice and determining lake depth using Sentinel 1 Synthetic Aperture Radar Remote Sensing on the west shore of Hudson Bay, Canada and Prudhoe Bay, Alaska* | |
-| *Derivation of Biophysical Metrics for NE-Siberian Biomes using UAV-Based Photogrammetric Point Clouds* | [MSc thesis published in *Remote Sensing*](https://www.mdpi.com/2072-4292/11/12/1447) |
+| *Derivation of Biophysical Metrics for NE-Siberian Biomes using UAV-Based Photogrammetric Point Clouds* | [MSc thesis published in *remote sensing*](https://www.mdpi.com/2072-4292/11/12/1447) |
 | *Quality assessment of structure from motion point clouds from river pebbles* | |
 | *Evaluating groundwater sustainability of mining activities in the Niger basin*  | |
 | *Dome growth during the 2016-2017 eruption sequence at Bezymianny volcano, Kamchatka, measured by high-resolution TerraSAR-X and photogrammetric data* | |
@@ -30,3 +41,5 @@ layout: splash
 | *Landscape response to alternating wet and dry seasons observed by remotely sensed data in the Chew Bahir basin, Ethiopia* | |
 | *A glacial chronology and cosmogenic nuclide cross-calibration from the central southern Andean Plateau (Puna, 24S)* | [MSc thesis published in *Earth and Planetary Science Letters*](https://www.sciencedirect.com/science/article/abs/pii/S0012821X18304400) |
 | *Validation of Digital Elevation Models (DEMs) & Derived Geomorphic Metrics on the Southern Central Andean Plateau* | [MSc thesis published in *Earth Surface Dynamics*](https://www.earth-surf-dynam.net/5/211/2017/) |
+
+
